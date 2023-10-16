@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61080260-0c2a-468f-bd2f-e6d9ce172f13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/text based game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TextBasedGame.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TextBasedGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/TextBasedGame.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697172043278</updated>
       <workItem from="1697172048676" duration="17628000" />
-      <workItem from="1697335689138" duration="18997000" />
+      <workItem from="1697335689138" duration="19747000" />
     </task>
     <servers />
   </component>

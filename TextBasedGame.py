@@ -176,7 +176,8 @@ def loser():
     pause_and_clear_screen(0)
     # final message for losing.
     print('You\'re client is not happy. In a followup email they describe in detail how they\'ve lost confidence.\n'
-          'They are officially terminating your contract.\n\n\nBetter luck next time. You succumbed to the CODE-POCALYPSE!\n\n'
+          'They are officially terminating your contract.\n\n\nBetter luck next time. '
+          'You succumbed to the CODE-POCALYPSE!\n\n'
           '[press enter to exit]')
     # waiting for player input so they can read the message
     input()
